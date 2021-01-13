@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<probe>
+
+        <wavelength>690</wavelength>
+        <wavelength>830</wavelength>
+    
+        <srcpos><index>1</index><x>-80</x><y>0</y></srcpos>
+        <srcpos><index>2</index><x>-60</x><y>0</y></srcpos>
+        <srcpos><index>3</index><x>-40</x><y>0</y></srcpos>
+        <srcpos><index>4</index><x>-20</x><y>0</y></srcpos>
+        <srcpos><index>5</index><x>0</x><y>0</y></srcpos>
+        <srcpos><index>6</index><x>20</x><y>0</y></srcpos>
+        <srcpos><index>7</index><x>40</x><y>0</y></srcpos>
+        <srcpos><index>8</index><x>60</x><y>0</y></srcpos>
+        <srcpos><index>9</index><x>80</x><y>0</y></srcpos>
+
+        <srcpos3D><index>1</index><x>-59.4148</x><y>65.4761</y><z>-0.764359</z></srcpos3D>
+        <srcpos3D><index>2</index><x>-47.4177</x><y>77.5858</y><z>4.66175</z></srcpos3D>
+        <srcpos3D><index>3</index><x>-33.35</x><y>87.8072</y><z>10.2257</z></srcpos3D>
+        <srcpos3D><index>4</index><x>-17.1019</x><y>93.6262</y><z>13.1052</z></srcpos3D>
+        <srcpos3D><index>5</index><x>3.01464</x><y>95.1903</y><z>13.757</z></srcpos3D>
+        <srcpos3D><index>6</index><x>17.1104</x><y>93.672</y><z>13.1285</z></srcpos3D>
+        <srcpos3D><index>7</index><x>33.4162</x><y>87.9792</y><z>10.313</z></srcpos3D>
+        <srcpos3D><index>8</index><x>47.4931</x><y>77.7071</y><z>4.72272</z></srcpos3D>
+        <srcpos3D><index>9</index><x>60.6878</x><y>66.8525</y><z>-0.0584165</z></srcpos3D>
+
+        <detpos><index>1</index><x>-70</x><y>25</y></detpos>
+        <detpos><index>2</index><x>-50</x><y>25</y></detpos>
+        <detpos><index>3</index><x>-30</x><y>25</y></detpos>
+        <detpos><index>4</index><x>-10</x><y>25</y></detpos>
+        <detpos><index>5</index><x>10</x><y>25</y></detpos>
+        <detpos><index>6</index><x>30</x><y>25</y></detpos>
+        <detpos><index>7</index><x>50</x><y>25</y></detpos>
+        <detpos><index>8</index><x>70</x><y>25</y></detpos>
+
+        <detpos3D><index>1</index><x>-53.1686</x><y>62.8525</y><z>24.9408</z></detpos3D>
+        <detpos3D><index>2</index><x>-40.062</x><y>73.4807</y><z>30.8443</z></detpos3D>
+        <detpos3D><index>3</index><x>-24.7189</x><y>80.3162</y><z>34.5726</z></detpos3D>
+        <detpos3D><index>4</index><x>-8.35924</x><y>83.7866</y><z>36.4963</z></detpos3D>
+        <detpos3D><index>5</index><x>8.36113</x><y>83.8053</y><z>36.5122</z></detpos3D>
+        <detpos3D><index>6</index><x>24.7359</x><y>80.3704</y><z>34.6195</z></detpos3D>
+        <detpos3D><index>7</index><x>40.1087</x><y>73.5649</y><z>30.9196</z></detpos3D>
+        <detpos3D><index>8</index><x>53.2585</x><y>62.9567</y><z>25.0399</z></detpos3D>
+
+        
+        <ml><src>1</src><det>1</det></ml>
+        <ml><src>2</src><det>1</det></ml>
+        <ml><src>2</src><det>2</det></ml>
+        <ml><src>3</src><det>2</det></ml>
+        <ml><src>3</src><det>3</det></ml>
+        <ml><src>4</src><det>3</det></ml>
+        <ml><src>4</src><det>4</det></ml>
+        <ml><src>5</src><det>4</det></ml>
+        <ml><src>5</src><det>5</det></ml>
+        <ml><src>6</src><det>5</det></ml>
+        <ml><src>6</src><det>6</det></ml>
+        <ml><src>7</src><det>6</det></ml>
+        <ml><src>7</src><det>7</det></ml>
+        <ml><src>8</src><det>7</det></ml>
+        <ml><src>8</src><det>8</det></ml>
+        <ml><src>9</src><det>8</det></ml>
+   
+        
+</probe>
+
